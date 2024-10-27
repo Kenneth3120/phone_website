@@ -10,15 +10,18 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@clerk/clerk-react": "^5.13.1",
     "@gsap/react": "^2.1.1",
     "@react-three/drei": "^9.114.6",
     "@react-three/fiber": "^8.17.10",
     "@sentry/react": "^8.35.0",
+    "@sentry/tracing": "^7.114.0",
     "@sentry/vite-plugin": "^2.22.6",
     "gsap": "^3.12.5",
     "phone_website": "file:",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
+    "react-router-dom": "^6.27.0",
     "three": "^0.169.0"
   },
   "devDependencies": {
